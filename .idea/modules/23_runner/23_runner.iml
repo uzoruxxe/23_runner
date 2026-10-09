@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="root-23_runner [file:///C:/Users/hdhdh/Downloads/23_runner/]" external.linked.project.path="C:\Users\hdhdh\Downloads\23_runner" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="23_runner" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_21" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="23_runner.main" />
+    <orderEntry type="module" module-name="23_runner.test" production-on-test="" />
+  </component>
+</module>
