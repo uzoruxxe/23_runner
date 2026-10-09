@@ -2,12 +2,12 @@
   "botName": "ReflexBot",
   "mode": "Obstacles",
   "seed": 2026,
-  "totalTicks": 159,
-  "distance": 159,
-  "score": 349,
+  "totalTicks": 200,
+  "distance": 200,
+  "score": 390,
   "coinsCollected": 9,
   "timeoutsCount": 0,
-  "deathReason": "Hit chest-level obstacle at (Left, Height.Mid). Required Duck or Jump, but was Running.",
+  "deathReason": null,
   "ticks": [
     {
       "tick": 0,
@@ -17,7 +17,7 @@
       "alive": true,
       "score": 1,
       "distance": 0,
-      "responseTimeUs": 21315,
+      "responseTimeUs": 15404,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -45,7 +45,7 @@
       "alive": true,
       "score": 2,
       "distance": 1,
-      "responseTimeUs": 2817,
+      "responseTimeUs": 1947,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -73,7 +73,7 @@
       "alive": true,
       "score": 3,
       "distance": 2,
-      "responseTimeUs": 529,
+      "responseTimeUs": 265,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -101,7 +101,7 @@
       "alive": true,
       "score": 4,
       "distance": 3,
-      "responseTimeUs": 345,
+      "responseTimeUs": 219,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -129,7 +129,7 @@
       "alive": true,
       "score": 5,
       "distance": 4,
-      "responseTimeUs": 128,
+      "responseTimeUs": 84,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -157,7 +157,7 @@
       "alive": true,
       "score": 6,
       "distance": 5,
-      "responseTimeUs": 80,
+      "responseTimeUs": 61,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -185,7 +185,7 @@
       "alive": true,
       "score": 7,
       "distance": 6,
-      "responseTimeUs": 65,
+      "responseTimeUs": 48,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -213,7 +213,7 @@
       "alive": true,
       "score": 8,
       "distance": 7,
-      "responseTimeUs": 54,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -241,7 +241,7 @@
       "alive": true,
       "score": 9,
       "distance": 8,
-      "responseTimeUs": 53,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -269,7 +269,7 @@
       "alive": true,
       "score": 10,
       "distance": 9,
-      "responseTimeUs": 59,
+      "responseTimeUs": 37,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -297,7 +297,7 @@
       "alive": true,
       "score": 11,
       "distance": 10,
-      "responseTimeUs": 46,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -325,7 +325,7 @@
       "alive": true,
       "score": 12,
       "distance": 11,
-      "responseTimeUs": 88,
+      "responseTimeUs": 71,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -353,7 +353,7 @@
       "alive": true,
       "score": 13,
       "distance": 12,
-      "responseTimeUs": 147,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -381,7 +381,7 @@
       "alive": true,
       "score": 14,
       "distance": 13,
-      "responseTimeUs": 109,
+      "responseTimeUs": 46,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -409,7 +409,7 @@
       "alive": true,
       "score": 15,
       "distance": 14,
-      "responseTimeUs": 86,
+      "responseTimeUs": 62,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -437,7 +437,7 @@
       "alive": true,
       "score": 16,
       "distance": 15,
-      "responseTimeUs": 57,
+      "responseTimeUs": 50,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -465,7 +465,7 @@
       "alive": true,
       "score": 37,
       "distance": 16,
-      "responseTimeUs": 43,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -493,7 +493,7 @@
       "alive": true,
       "score": 38,
       "distance": 17,
-      "responseTimeUs": 64,
+      "responseTimeUs": 57,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -521,7 +521,7 @@
       "alive": true,
       "score": 39,
       "distance": 18,
-      "responseTimeUs": 86,
+      "responseTimeUs": 75,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -549,7 +549,7 @@
       "alive": true,
       "score": 40,
       "distance": 19,
-      "responseTimeUs": 48,
+      "responseTimeUs": 65,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -577,7 +577,7 @@
       "alive": true,
       "score": 41,
       "distance": 20,
-      "responseTimeUs": 53,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -605,7 +605,7 @@
       "alive": true,
       "score": 42,
       "distance": 21,
-      "responseTimeUs": 39,
+      "responseTimeUs": 35,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -661,7 +661,7 @@
       "alive": true,
       "score": 44,
       "distance": 23,
-      "responseTimeUs": 53,
+      "responseTimeUs": 59,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -689,7 +689,7 @@
       "alive": true,
       "score": 45,
       "distance": 24,
-      "responseTimeUs": 62,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -717,7 +717,7 @@
       "alive": true,
       "score": 46,
       "distance": 25,
-      "responseTimeUs": 73,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -745,7 +745,7 @@
       "alive": true,
       "score": 47,
       "distance": 26,
-      "responseTimeUs": 45,
+      "responseTimeUs": 48,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -773,7 +773,7 @@
       "alive": true,
       "score": 48,
       "distance": 27,
-      "responseTimeUs": 52,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -801,7 +801,7 @@
       "alive": true,
       "score": 49,
       "distance": 28,
-      "responseTimeUs": 46,
+      "responseTimeUs": 45,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -829,7 +829,7 @@
       "alive": true,
       "score": 50,
       "distance": 29,
-      "responseTimeUs": 35,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -857,7 +857,7 @@
       "alive": true,
       "score": 51,
       "distance": 30,
-      "responseTimeUs": 145,
+      "responseTimeUs": 81,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -885,7 +885,7 @@
       "alive": true,
       "score": 52,
       "distance": 31,
-      "responseTimeUs": 45,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -913,7 +913,7 @@
       "alive": true,
       "score": 53,
       "distance": 32,
-      "responseTimeUs": 50,
+      "responseTimeUs": 43,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -941,7 +941,7 @@
       "alive": true,
       "score": 54,
       "distance": 33,
-      "responseTimeUs": 30,
+      "responseTimeUs": 39,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -969,7 +969,7 @@
       "alive": true,
       "score": 55,
       "distance": 34,
-      "responseTimeUs": 46,
+      "responseTimeUs": 35,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -997,7 +997,7 @@
       "alive": true,
       "score": 56,
       "distance": 35,
-      "responseTimeUs": 46,
+      "responseTimeUs": 30,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1025,7 +1025,7 @@
       "alive": true,
       "score": 77,
       "distance": 36,
-      "responseTimeUs": 41,
+      "responseTimeUs": 23,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1053,7 +1053,7 @@
       "alive": true,
       "score": 78,
       "distance": 37,
-      "responseTimeUs": 44,
+      "responseTimeUs": 19,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1081,7 +1081,7 @@
       "alive": true,
       "score": 79,
       "distance": 38,
-      "responseTimeUs": 41,
+      "responseTimeUs": 30,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1109,7 +1109,7 @@
       "alive": true,
       "score": 100,
       "distance": 39,
-      "responseTimeUs": 45,
+      "responseTimeUs": 39,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1137,7 +1137,7 @@
       "alive": true,
       "score": 101,
       "distance": 40,
-      "responseTimeUs": 53,
+      "responseTimeUs": 32,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1165,7 +1165,7 @@
       "alive": true,
       "score": 102,
       "distance": 41,
-      "responseTimeUs": 46,
+      "responseTimeUs": 30,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1193,7 +1193,7 @@
       "alive": true,
       "score": 103,
       "distance": 42,
-      "responseTimeUs": 74,
+      "responseTimeUs": 64,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1221,7 +1221,7 @@
       "alive": true,
       "score": 104,
       "distance": 43,
-      "responseTimeUs": 42,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1249,7 +1249,7 @@
       "alive": true,
       "score": 105,
       "distance": 44,
-      "responseTimeUs": 52,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1277,7 +1277,7 @@
       "alive": true,
       "score": 106,
       "distance": 45,
-      "responseTimeUs": 44,
+      "responseTimeUs": 53,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1305,7 +1305,7 @@
       "alive": true,
       "score": 107,
       "distance": 46,
-      "responseTimeUs": 28,
+      "responseTimeUs": 52,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1333,7 +1333,7 @@
       "alive": true,
       "score": 108,
       "distance": 47,
-      "responseTimeUs": 28,
+      "responseTimeUs": 29,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1361,7 +1361,7 @@
       "alive": true,
       "score": 109,
       "distance": 48,
-      "responseTimeUs": 71,
+      "responseTimeUs": 83,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1389,7 +1389,7 @@
       "alive": true,
       "score": 110,
       "distance": 49,
-      "responseTimeUs": 96,
+      "responseTimeUs": 187,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1417,7 +1417,7 @@
       "alive": true,
       "score": 111,
       "distance": 50,
-      "responseTimeUs": 54,
+      "responseTimeUs": 59,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1445,7 +1445,7 @@
       "alive": true,
       "score": 112,
       "distance": 51,
-      "responseTimeUs": 62,
+      "responseTimeUs": 51,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1473,7 +1473,7 @@
       "alive": true,
       "score": 113,
       "distance": 52,
-      "responseTimeUs": 37,
+      "responseTimeUs": 20,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1501,7 +1501,7 @@
       "alive": true,
       "score": 114,
       "distance": 53,
-      "responseTimeUs": 44,
+      "responseTimeUs": 34,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1529,7 +1529,7 @@
       "alive": true,
       "score": 115,
       "distance": 54,
-      "responseTimeUs": 44,
+      "responseTimeUs": 51,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1557,7 +1557,7 @@
       "alive": true,
       "score": 116,
       "distance": 55,
-      "responseTimeUs": 34,
+      "responseTimeUs": 27,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1585,7 +1585,7 @@
       "alive": true,
       "score": 117,
       "distance": 56,
-      "responseTimeUs": 37,
+      "responseTimeUs": 33,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1613,7 +1613,7 @@
       "alive": true,
       "score": 138,
       "distance": 57,
-      "responseTimeUs": 32,
+      "responseTimeUs": 38,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1641,7 +1641,7 @@
       "alive": true,
       "score": 139,
       "distance": 58,
-      "responseTimeUs": 50,
+      "responseTimeUs": 39,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1669,7 +1669,7 @@
       "alive": true,
       "score": 140,
       "distance": 59,
-      "responseTimeUs": 38,
+      "responseTimeUs": 27,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1697,7 +1697,7 @@
       "alive": true,
       "score": 141,
       "distance": 60,
-      "responseTimeUs": 49,
+      "responseTimeUs": 21,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1725,7 +1725,7 @@
       "alive": true,
       "score": 142,
       "distance": 61,
-      "responseTimeUs": 43,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1753,7 +1753,7 @@
       "alive": true,
       "score": 143,
       "distance": 62,
-      "responseTimeUs": 48,
+      "responseTimeUs": 23,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1781,7 +1781,7 @@
       "alive": true,
       "score": 144,
       "distance": 63,
-      "responseTimeUs": 68,
+      "responseTimeUs": 77,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1809,7 +1809,7 @@
       "alive": true,
       "score": 145,
       "distance": 64,
-      "responseTimeUs": 60,
+      "responseTimeUs": 59,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1837,7 +1837,7 @@
       "alive": true,
       "score": 146,
       "distance": 65,
-      "responseTimeUs": 48,
+      "responseTimeUs": 47,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1865,7 +1865,7 @@
       "alive": true,
       "score": 147,
       "distance": 66,
-      "responseTimeUs": 47,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1893,7 +1893,7 @@
       "alive": true,
       "score": 148,
       "distance": 67,
-      "responseTimeUs": 67,
+      "responseTimeUs": 47,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1921,7 +1921,7 @@
       "alive": true,
       "score": 149,
       "distance": 68,
-      "responseTimeUs": 60,
+      "responseTimeUs": 62,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1949,7 +1949,7 @@
       "alive": true,
       "score": 150,
       "distance": 69,
-      "responseTimeUs": 76,
+      "responseTimeUs": 37,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -1977,7 +1977,7 @@
       "alive": true,
       "score": 151,
       "distance": 70,
-      "responseTimeUs": 39,
+      "responseTimeUs": 25,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2005,7 +2005,7 @@
       "alive": true,
       "score": 152,
       "distance": 71,
-      "responseTimeUs": 26,
+      "responseTimeUs": 35,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2033,7 +2033,7 @@
       "alive": true,
       "score": 153,
       "distance": 72,
-      "responseTimeUs": 39,
+      "responseTimeUs": 74,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2061,7 +2061,7 @@
       "alive": true,
       "score": 154,
       "distance": 73,
-      "responseTimeUs": 46,
+      "responseTimeUs": 43,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2089,7 +2089,7 @@
       "alive": true,
       "score": 155,
       "distance": 74,
-      "responseTimeUs": 55,
+      "responseTimeUs": 48,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2117,7 +2117,7 @@
       "alive": true,
       "score": 156,
       "distance": 75,
-      "responseTimeUs": 38,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2145,7 +2145,7 @@
       "alive": true,
       "score": 157,
       "distance": 76,
-      "responseTimeUs": 54,
+      "responseTimeUs": 52,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2173,7 +2173,7 @@
       "alive": true,
       "score": 158,
       "distance": 77,
-      "responseTimeUs": 30,
+      "responseTimeUs": 50,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2201,7 +2201,7 @@
       "alive": true,
       "score": 159,
       "distance": 78,
-      "responseTimeUs": 39,
+      "responseTimeUs": 35,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2229,7 +2229,7 @@
       "alive": true,
       "score": 160,
       "distance": 79,
-      "responseTimeUs": 38,
+      "responseTimeUs": 55,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2257,7 +2257,7 @@
       "alive": true,
       "score": 161,
       "distance": 80,
-      "responseTimeUs": 37,
+      "responseTimeUs": 55,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2313,7 +2313,7 @@
       "alive": true,
       "score": 183,
       "distance": 82,
-      "responseTimeUs": 39,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2341,7 +2341,7 @@
       "alive": true,
       "score": 184,
       "distance": 83,
-      "responseTimeUs": 38,
+      "responseTimeUs": 46,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2369,7 +2369,7 @@
       "alive": true,
       "score": 185,
       "distance": 84,
-      "responseTimeUs": 42,
+      "responseTimeUs": 111,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2397,7 +2397,7 @@
       "alive": true,
       "score": 186,
       "distance": 85,
-      "responseTimeUs": 45,
+      "responseTimeUs": 99,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2425,7 +2425,7 @@
       "alive": true,
       "score": 187,
       "distance": 86,
-      "responseTimeUs": 61,
+      "responseTimeUs": 41,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2453,7 +2453,7 @@
       "alive": true,
       "score": 188,
       "distance": 87,
-      "responseTimeUs": 194,
+      "responseTimeUs": 56,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2481,7 +2481,7 @@
       "alive": true,
       "score": 189,
       "distance": 88,
-      "responseTimeUs": 41,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2509,7 +2509,7 @@
       "alive": true,
       "score": 190,
       "distance": 89,
-      "responseTimeUs": 27,
+      "responseTimeUs": 52,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2537,7 +2537,7 @@
       "alive": true,
       "score": 191,
       "distance": 90,
-      "responseTimeUs": 30,
+      "responseTimeUs": 29,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2565,7 +2565,7 @@
       "alive": true,
       "score": 192,
       "distance": 91,
-      "responseTimeUs": 39,
+      "responseTimeUs": 19,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2593,7 +2593,7 @@
       "alive": true,
       "score": 193,
       "distance": 92,
-      "responseTimeUs": 40,
+      "responseTimeUs": 27,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2621,7 +2621,7 @@
       "alive": true,
       "score": 194,
       "distance": 93,
-      "responseTimeUs": 40,
+      "responseTimeUs": 26,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2649,7 +2649,7 @@
       "alive": true,
       "score": 195,
       "distance": 94,
-      "responseTimeUs": 46,
+      "responseTimeUs": 17,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2677,7 +2677,7 @@
       "alive": true,
       "score": 196,
       "distance": 95,
-      "responseTimeUs": 39,
+      "responseTimeUs": 16,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2705,7 +2705,7 @@
       "alive": true,
       "score": 197,
       "distance": 96,
-      "responseTimeUs": 50,
+      "responseTimeUs": 13,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2733,7 +2733,7 @@
       "alive": true,
       "score": 198,
       "distance": 97,
-      "responseTimeUs": 54,
+      "responseTimeUs": 46,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2761,7 +2761,7 @@
       "alive": true,
       "score": 199,
       "distance": 98,
-      "responseTimeUs": 40,
+      "responseTimeUs": 22,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2789,7 +2789,7 @@
       "alive": true,
       "score": 200,
       "distance": 99,
-      "responseTimeUs": 26,
+      "responseTimeUs": 45,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2817,7 +2817,7 @@
       "alive": true,
       "score": 201,
       "distance": 100,
-      "responseTimeUs": 45,
+      "responseTimeUs": 38,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2845,7 +2845,7 @@
       "alive": true,
       "score": 202,
       "distance": 101,
-      "responseTimeUs": 38,
+      "responseTimeUs": 29,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2873,7 +2873,7 @@
       "alive": true,
       "score": 203,
       "distance": 102,
-      "responseTimeUs": 27,
+      "responseTimeUs": 23,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2897,11 +2897,11 @@
       "tick": 103,
       "lane": "Center",
       "stance": "Running",
-      "action": "Jump",
+      "action": "MoveLeft",
       "alive": true,
       "score": 204,
       "distance": 103,
-      "responseTimeUs": 36,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2923,13 +2923,13 @@
     },
     {
       "tick": 104,
-      "lane": "Center",
-      "stance": "Jumping",
-      "action": "Duck",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
       "alive": true,
       "score": 205,
       "distance": 104,
-      "responseTimeUs": 25,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2951,13 +2951,13 @@
     },
     {
       "tick": 105,
-      "lane": "Center",
-      "stance": "Ducking",
-      "action": "KeepRunning",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
       "alive": true,
       "score": 206,
       "distance": 105,
-      "responseTimeUs": 38,
+      "responseTimeUs": 35,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -2979,13 +2979,13 @@
     },
     {
       "tick": 106,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "KeepRunning",
       "alive": true,
-      "score": 207,
+      "score": 227,
       "distance": 106,
-      "responseTimeUs": 32,
+      "responseTimeUs": 25,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3007,13 +3007,13 @@
     },
     {
       "tick": 107,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 208,
+      "score": 228,
       "distance": 107,
-      "responseTimeUs": 37,
+      "responseTimeUs": 52,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3035,13 +3035,13 @@
     },
     {
       "tick": 108,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Duck",
       "alive": true,
-      "score": 209,
+      "score": 229,
       "distance": 108,
-      "responseTimeUs": 24,
+      "responseTimeUs": 48,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3063,13 +3063,13 @@
     },
     {
       "tick": 109,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "Jump",
       "alive": true,
-      "score": 210,
+      "score": 230,
       "distance": 109,
-      "responseTimeUs": 37,
+      "responseTimeUs": 27,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3091,13 +3091,13 @@
     },
     {
       "tick": 110,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Jumping",
       "action": "KeepRunning",
       "alive": true,
-      "score": 211,
+      "score": 231,
       "distance": 110,
-      "responseTimeUs": 32,
+      "responseTimeUs": 52,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3119,11 +3119,11 @@
     },
     {
       "tick": 111,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 212,
+      "score": 232,
       "distance": 111,
       "responseTimeUs": 34,
       "timedOut": false,
@@ -3147,13 +3147,13 @@
     },
     {
       "tick": 112,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Duck",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 213,
+      "score": 233,
       "distance": 112,
-      "responseTimeUs": 24,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3175,13 +3175,13 @@
     },
     {
       "tick": 113,
-      "lane": "Center",
-      "stance": "Ducking",
-      "action": "Jump",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 214,
+      "score": 234,
       "distance": 113,
-      "responseTimeUs": 43,
+      "responseTimeUs": 49,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3203,13 +3203,13 @@
     },
     {
       "tick": 114,
-      "lane": "Center",
-      "stance": "Jumping",
+      "lane": "Left",
+      "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 215,
+      "score": 235,
       "distance": 114,
-      "responseTimeUs": 33,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3231,13 +3231,13 @@
     },
     {
       "tick": 115,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Jump",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 216,
+      "score": 236,
       "distance": 115,
-      "responseTimeUs": 52,
+      "responseTimeUs": 41,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3259,13 +3259,13 @@
     },
     {
       "tick": 116,
-      "lane": "Center",
-      "stance": "Jumping",
+      "lane": "Left",
+      "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 217,
+      "score": 237,
       "distance": 116,
-      "responseTimeUs": 50,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3287,13 +3287,13 @@
     },
     {
       "tick": 117,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 218,
+      "score": 238,
       "distance": 117,
-      "responseTimeUs": 36,
+      "responseTimeUs": 37,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3315,13 +3315,13 @@
     },
     {
       "tick": 118,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Duck",
       "alive": true,
-      "score": 219,
+      "score": 269,
       "distance": 118,
-      "responseTimeUs": 28,
+      "responseTimeUs": 43,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3343,13 +3343,13 @@
     },
     {
       "tick": 119,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "KeepRunning",
       "alive": true,
-      "score": 220,
+      "score": 270,
       "distance": 119,
-      "responseTimeUs": 50,
+      "responseTimeUs": 22,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3371,13 +3371,13 @@
     },
     {
       "tick": 120,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 221,
+      "score": 271,
       "distance": 120,
-      "responseTimeUs": 55,
+      "responseTimeUs": 38,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3399,13 +3399,13 @@
     },
     {
       "tick": 121,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Jump",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 252,
+      "score": 272,
       "distance": 121,
-      "responseTimeUs": 46,
+      "responseTimeUs": 41,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3427,13 +3427,13 @@
     },
     {
       "tick": 122,
-      "lane": "Center",
-      "stance": "Jumping",
+      "lane": "Left",
+      "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 253,
+      "score": 273,
       "distance": 122,
-      "responseTimeUs": 33,
+      "responseTimeUs": 72,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3455,13 +3455,13 @@
     },
     {
       "tick": 123,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 254,
+      "score": 274,
       "distance": 123,
-      "responseTimeUs": 40,
+      "responseTimeUs": 37,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3483,13 +3483,13 @@
     },
     {
       "tick": 124,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Jump",
       "alive": true,
-      "score": 285,
+      "score": 275,
       "distance": 124,
-      "responseTimeUs": 94,
+      "responseTimeUs": 54,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3511,13 +3511,13 @@
     },
     {
       "tick": 125,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Jumping",
       "action": "KeepRunning",
       "alive": true,
-      "score": 286,
+      "score": 276,
       "distance": 125,
-      "responseTimeUs": 45,
+      "responseTimeUs": 29,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3539,13 +3539,13 @@
     },
     {
       "tick": 126,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 287,
+      "score": 277,
       "distance": 126,
-      "responseTimeUs": 79,
+      "responseTimeUs": 77,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3567,13 +3567,13 @@
     },
     {
       "tick": 127,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Jump",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 288,
+      "score": 278,
       "distance": 127,
-      "responseTimeUs": 59,
+      "responseTimeUs": 94,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3595,13 +3595,13 @@
     },
     {
       "tick": 128,
-      "lane": "Center",
-      "stance": "Jumping",
-      "action": "KeepRunning",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "MoveRight",
       "alive": true,
-      "score": 289,
+      "score": 279,
       "distance": 128,
-      "responseTimeUs": 38,
+      "responseTimeUs": 79,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3627,9 +3627,9 @@
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 290,
+      "score": 280,
       "distance": 129,
-      "responseTimeUs": 44,
+      "responseTimeUs": 85,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3653,11 +3653,11 @@
       "tick": 130,
       "lane": "Center",
       "stance": "Running",
-      "action": "Jump",
+      "action": "MoveLeft",
       "alive": true,
-      "score": 291,
+      "score": 281,
       "distance": 130,
-      "responseTimeUs": 75,
+      "responseTimeUs": 61,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3679,13 +3679,13 @@
     },
     {
       "tick": 131,
-      "lane": "Center",
-      "stance": "Jumping",
-      "action": "Duck",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 292,
+      "score": 282,
       "distance": 131,
-      "responseTimeUs": 58,
+      "responseTimeUs": 105,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3707,13 +3707,13 @@
     },
     {
       "tick": 132,
-      "lane": "Center",
-      "stance": "Ducking",
-      "action": "KeepRunning",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
       "alive": true,
-      "score": 293,
+      "score": 283,
       "distance": 132,
-      "responseTimeUs": 40,
+      "responseTimeUs": 61,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3735,13 +3735,13 @@
     },
     {
       "tick": 133,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "KeepRunning",
       "alive": true,
-      "score": 294,
+      "score": 284,
       "distance": 133,
-      "responseTimeUs": 37,
+      "responseTimeUs": 39,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3763,13 +3763,13 @@
     },
     {
       "tick": 134,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Duck",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 295,
+      "score": 285,
       "distance": 134,
-      "responseTimeUs": 59,
+      "responseTimeUs": 67,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3791,13 +3791,13 @@
     },
     {
       "tick": 135,
-      "lane": "Center",
-      "stance": "Ducking",
+      "lane": "Left",
+      "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 296,
+      "score": 286,
       "distance": 135,
-      "responseTimeUs": 50,
+      "responseTimeUs": 28,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3819,13 +3819,13 @@
     },
     {
       "tick": 136,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 297,
+      "score": 287,
       "distance": 136,
-      "responseTimeUs": 40,
+      "responseTimeUs": 30,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3847,13 +3847,13 @@
     },
     {
       "tick": 137,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 298,
+      "score": 288,
       "distance": 137,
-      "responseTimeUs": 38,
+      "responseTimeUs": 32,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3875,13 +3875,13 @@
     },
     {
       "tick": 138,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 299,
+      "score": 289,
       "distance": 138,
-      "responseTimeUs": 36,
+      "responseTimeUs": 31,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3903,13 +3903,13 @@
     },
     {
       "tick": 139,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Jump",
       "alive": true,
-      "score": 300,
+      "score": 310,
       "distance": 139,
-      "responseTimeUs": 43,
+      "responseTimeUs": 37,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3931,13 +3931,13 @@
     },
     {
       "tick": 140,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Jumping",
       "action": "Duck",
       "alive": true,
-      "score": 301,
+      "score": 311,
       "distance": 140,
-      "responseTimeUs": 39,
+      "responseTimeUs": 42,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3959,13 +3959,13 @@
     },
     {
       "tick": 141,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Ducking",
-      "action": "KeepRunning",
+      "action": "Duck",
       "alive": true,
-      "score": 302,
+      "score": 312,
       "distance": 141,
-      "responseTimeUs": 28,
+      "responseTimeUs": 39,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -3987,13 +3987,13 @@
     },
     {
       "tick": 142,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "KeepRunning",
       "alive": true,
-      "score": 303,
+      "score": 313,
       "distance": 142,
-      "responseTimeUs": 61,
+      "responseTimeUs": 43,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4015,11 +4015,11 @@
     },
     {
       "tick": 143,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 304,
+      "score": 314,
       "distance": 143,
       "responseTimeUs": 45,
       "timedOut": false,
@@ -4043,13 +4043,13 @@
     },
     {
       "tick": 144,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 305,
+      "score": 315,
       "distance": 144,
-      "responseTimeUs": 42,
+      "responseTimeUs": 26,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4071,13 +4071,13 @@
     },
     {
       "tick": 145,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 306,
+      "score": 316,
       "distance": 145,
-      "responseTimeUs": 38,
+      "responseTimeUs": 32,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4099,13 +4099,13 @@
     },
     {
       "tick": 146,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Duck",
       "alive": true,
-      "score": 307,
+      "score": 317,
       "distance": 146,
-      "responseTimeUs": 30,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4127,13 +4127,13 @@
     },
     {
       "tick": 147,
-      "lane": "Center",
-      "stance": "Running",
-      "action": "KeepRunning",
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "Jump",
       "alive": true,
-      "score": 308,
+      "score": 318,
       "distance": 147,
-      "responseTimeUs": 22,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4155,13 +4155,13 @@
     },
     {
       "tick": 148,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Jumping",
       "action": "KeepRunning",
       "alive": true,
-      "score": 309,
+      "score": 319,
       "distance": 148,
-      "responseTimeUs": 37,
+      "responseTimeUs": 33,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4183,13 +4183,13 @@
     },
     {
       "tick": 149,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Jump",
       "alive": true,
-      "score": 330,
+      "score": 320,
       "distance": 149,
-      "responseTimeUs": 45,
+      "responseTimeUs": 47,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4211,13 +4211,13 @@
     },
     {
       "tick": 150,
-      "lane": "Center",
-      "stance": "Running",
-      "action": "Jump",
+      "lane": "Left",
+      "stance": "Jumping",
+      "action": "Duck",
       "alive": true,
-      "score": 331,
+      "score": 321,
       "distance": 150,
-      "responseTimeUs": 38,
+      "responseTimeUs": 24,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4239,13 +4239,13 @@
     },
     {
       "tick": 151,
-      "lane": "Center",
-      "stance": "Jumping",
+      "lane": "Left",
+      "stance": "Ducking",
       "action": "KeepRunning",
       "alive": true,
-      "score": 332,
+      "score": 322,
       "distance": 151,
-      "responseTimeUs": 34,
+      "responseTimeUs": 44,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4267,13 +4267,13 @@
     },
     {
       "tick": 152,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 333,
+      "score": 323,
       "distance": 152,
-      "responseTimeUs": 36,
+      "responseTimeUs": 20,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4295,13 +4295,13 @@
     },
     {
       "tick": 153,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "Duck",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 334,
+      "score": 324,
       "distance": 153,
-      "responseTimeUs": 24,
+      "responseTimeUs": 15,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4323,13 +4323,13 @@
     },
     {
       "tick": 154,
-      "lane": "Center",
-      "stance": "Ducking",
-      "action": "Jump",
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
       "alive": true,
-      "score": 335,
+      "score": 325,
       "distance": 154,
-      "responseTimeUs": 25,
+      "responseTimeUs": 20,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4351,13 +4351,13 @@
     },
     {
       "tick": 155,
-      "lane": "Center",
-      "stance": "Jumping",
+      "lane": "Left",
+      "stance": "Running",
       "action": "KeepRunning",
       "alive": true,
-      "score": 336,
+      "score": 326,
       "distance": 155,
-      "responseTimeUs": 22,
+      "responseTimeUs": 36,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4379,13 +4379,13 @@
     },
     {
       "tick": 156,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "KeepRunning",
+      "action": "Jump",
       "alive": true,
-      "score": 337,
+      "score": 327,
       "distance": 156,
-      "responseTimeUs": 36,
+      "responseTimeUs": 32,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4407,13 +4407,13 @@
     },
     {
       "tick": 157,
-      "lane": "Center",
-      "stance": "Running",
+      "lane": "Left",
+      "stance": "Jumping",
       "action": "KeepRunning",
       "alive": true,
-      "score": 338,
+      "score": 328,
       "distance": 157,
-      "responseTimeUs": 44,
+      "responseTimeUs": 27,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4435,13 +4435,13 @@
     },
     {
       "tick": 158,
-      "lane": "Center",
+      "lane": "Left",
       "stance": "Running",
-      "action": "MoveLeft",
+      "action": "Duck",
       "alive": true,
-      "score": 349,
+      "score": 329,
       "distance": 158,
-      "responseTimeUs": 52,
+      "responseTimeUs": 20,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4464,12 +4464,12 @@
     {
       "tick": 159,
       "lane": "Left",
-      "stance": "Running",
+      "stance": "Ducking",
       "action": "KeepRunning",
-      "alive": false,
-      "score": 349,
+      "alive": true,
+      "score": 330,
       "distance": 159,
-      "responseTimeUs": 0,
+      "responseTimeUs": 30,
       "timedOut": false,
       "slice": {
         "Left": {
@@ -4479,6 +4479,1126 @@
         },
         "Center": {
           "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 160,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 331,
+      "distance": 160,
+      "responseTimeUs": 31,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 161,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 332,
+      "distance": 161,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 162,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "Jump",
+      "alive": true,
+      "score": 333,
+      "distance": 162,
+      "responseTimeUs": 22,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": {"Coin": 20}
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 163,
+      "lane": "Left",
+      "stance": "Jumping",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 334,
+      "distance": 163,
+      "responseTimeUs": 22,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 164,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 335,
+      "distance": 164,
+      "responseTimeUs": 40,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": {"Coin": 10}
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 165,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 336,
+      "distance": 165,
+      "responseTimeUs": 20,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        }
+      }
+    },
+    {
+      "tick": 166,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 337,
+      "distance": 166,
+      "responseTimeUs": 21,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 167,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 338,
+      "distance": 167,
+      "responseTimeUs": 38,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 168,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 339,
+      "distance": 168,
+      "responseTimeUs": 30,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 169,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 340,
+      "distance": 169,
+      "responseTimeUs": 33,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": {"Coin": 20}
+        }
+      }
+    },
+    {
+      "tick": 170,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 341,
+      "distance": 170,
+      "responseTimeUs": 26,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": {"Coin": 10},
+          "High": "Obstacle"
+        }
+      }
+    },
+    {
+      "tick": 171,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 342,
+      "distance": 171,
+      "responseTimeUs": 36,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 172,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 343,
+      "distance": 172,
+      "responseTimeUs": 47,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 173,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 364,
+      "distance": 173,
+      "responseTimeUs": 34,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": {"Coin": 20},
+          "Mid": "Obstacle",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 174,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 365,
+      "distance": 174,
+      "responseTimeUs": 33,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 175,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 366,
+      "distance": 175,
+      "responseTimeUs": 18,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 176,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 367,
+      "distance": 176,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": {"Coin": 30}
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 177,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 368,
+      "distance": 177,
+      "responseTimeUs": 27,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 178,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 369,
+      "distance": 178,
+      "responseTimeUs": 19,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": {"Coin": 10}
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 179,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 370,
+      "distance": 179,
+      "responseTimeUs": 15,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": {"Coin": 10}
+        }
+      }
+    },
+    {
+      "tick": 180,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 371,
+      "distance": 180,
+      "responseTimeUs": 14,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": {"Coin": 20}
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 181,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 372,
+      "distance": 181,
+      "responseTimeUs": 15,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 182,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 373,
+      "distance": 182,
+      "responseTimeUs": 14,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        }
+      }
+    },
+    {
+      "tick": 183,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 374,
+      "distance": 183,
+      "responseTimeUs": 13,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 184,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 375,
+      "distance": 184,
+      "responseTimeUs": 13,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": {"Coin": 30},
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 185,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 376,
+      "distance": 185,
+      "responseTimeUs": 12,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 186,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 377,
+      "distance": 186,
+      "responseTimeUs": 52,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 187,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 378,
+      "distance": 187,
+      "responseTimeUs": 44,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 188,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 379,
+      "distance": 188,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 189,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 380,
+      "distance": 189,
+      "responseTimeUs": 16,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Obstacle"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 190,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 381,
+      "distance": 190,
+      "responseTimeUs": 23,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        },
+        "Center": {
+          "Low": {"Coin": 10},
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 191,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 382,
+      "distance": 191,
+      "responseTimeUs": 21,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 192,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 383,
+      "distance": 192,
+      "responseTimeUs": 37,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 193,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 384,
+      "distance": 193,
+      "responseTimeUs": 39,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 194,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "Duck",
+      "alive": true,
+      "score": 385,
+      "distance": 194,
+      "responseTimeUs": 28,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 195,
+      "lane": "Left",
+      "stance": "Ducking",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 386,
+      "distance": 195,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Obstacle",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Obstacle",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 196,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 387,
+      "distance": 196,
+      "responseTimeUs": 46,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 197,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 388,
+      "distance": 197,
+      "responseTimeUs": 40,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        }
+      }
+    },
+    {
+      "tick": 198,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 389,
+      "distance": 198,
+      "responseTimeUs": 45,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": {"Coin": 10},
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Right": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Obstacle"
+        }
+      }
+    },
+    {
+      "tick": 199,
+      "lane": "Left",
+      "stance": "Running",
+      "action": "KeepRunning",
+      "alive": true,
+      "score": 390,
+      "distance": 199,
+      "responseTimeUs": 32,
+      "timedOut": false,
+      "slice": {
+        "Left": {
+          "Low": "Empty",
+          "Mid": "Empty",
+          "High": "Empty"
+        },
+        "Center": {
+          "Low": "Empty",
           "Mid": "Empty",
           "High": "Obstacle"
         },
