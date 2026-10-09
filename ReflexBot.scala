@@ -15,11 +15,11 @@ class ReflexBot(seed: Long = 202L) extends CyberBot:
         val hasMid  = slice.hasObstacleAt(currentLane, Height.Mid)
         val hasHigh = slice.hasObstacleAt(currentLane, Height.High)
 
-        // Перевірка, чи безпечно бігти по смузі
+        // перевірка, чи безпечно бігти по смузі
         def isSafeToRun(lane: Lane): Boolean =
           !slice.hasObstacleAt(lane, Height.Low) && !slice.hasObstacleAt(lane, Height.Mid)
 
-        // Шукаємо безпечний маневр убік
+        // безпечний маневр убік
         def findSafeSideMove: Action = currentLane match
           case Lane.Left if isSafeToRun(Lane.Center)  => Action.MoveRight
           case Lane.Right if isSafeToRun(Lane.Center) => Action.MoveLeft
@@ -29,18 +29,18 @@ class ReflexBot(seed: Long = 202L) extends CyberBot:
             else Action.KeepRunning
           case _ => Action.KeepRunning
 
-        // 1. Повна стіна, комбо Low + High, або глухий блок спереду
+        // повна стіна, комбо Low + High
         if (hasLow && hasHigh) || (hasLow && hasMid) then
           findSafeSideMove
 
-        // 2. Низька перешкода (Low) -> стрибаємо
+        // низька перешкода - стрибаємо
         else if hasLow then
           Action.Jump
 
-        // 3. Середня перешкода (Mid) -> присідаємо
+        // середня перешкода - присідаємо
         else if hasMid then
           Action.Duck
 
-        // 4. Висока (High) або чиста смуга -> просто біжимо
+        // висока смуга - біжимо
         else
           Action.KeepRunning
